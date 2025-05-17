@@ -1,7 +1,9 @@
 # Data-Science-Capstone
 Swaraj Rai's 2024-2025 Project to mark the completion of his Data Science Certificate at Wesleyan University
 Author: Swaraj Rai
+
 Certificate: Data Science Certificate, Wesleyan University (2024–2025)
+
 Project Title: Beyond Capital: How Financial Inclusion, Governance, and Gender Gaps Shape Global Startups
 
 🧠 Project Overview
