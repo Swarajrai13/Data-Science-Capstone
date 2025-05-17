@@ -45,6 +45,6 @@ Author-constructed WEFS Index (gender gap × entrepreneurship × informal econom
 
 **Contact:**
 For questions, collaboration, outreach:
-📧 swarajrai13 [at] gmail [dot] com
-🔗 LinkedIn
+📧 swaraj.r13@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/swaraj-rai-802591187/
 
